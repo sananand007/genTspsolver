@@ -28,7 +28,7 @@ This is a standalone library, better included directly in projects. Works with P
 
 
 ## Travis-Build
-[![Build status](https://travis-ci.org/sananand007/travis-lab.svg?master)](https://travis-ci.org/sananand007)
+[![Build Status](https://travis-ci.org/{sananand007}/{genTspsolver}.png?branch=master)](https://travis-ci.org/{sananand007}/{genTspsolver})
 
 
 ## Travis-Docs
