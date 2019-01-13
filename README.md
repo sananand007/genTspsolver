@@ -25,3 +25,11 @@ This is a standalone library, better included directly in projects. Works with P
 [doctest]: https://docs.python.org/2/library/doctest.html
 [pytest]: https://docs.pytest.org/en/latest/
 [yapf]: https://github.com/google/yapf
+
+
+## Travis-Build
+[![Build status](https://travis-ci.org/sananand007/travis-lab.svg?master)](https://travis-ci.org/sananand007)
+
+
+## Travis-Docs
+[![Inline docs](http://inch-ci.org/github/{ORG-or-sananand007}/{genTspsolver}.svg?branch=master)](http://inch-ci.org/github/{ORG-or-sananand007}/{genTspsolver})
