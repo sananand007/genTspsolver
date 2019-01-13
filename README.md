@@ -30,4 +30,4 @@ Python implementation of different local heuristics for the TSP.
 
 
 ## Travis-Build
-[![Build Status](https://travis-ci.com/sananand007/genTspsolver.png?branch=master)](https://travis-ci.com/sananand007/genTspsolver)
+[![Build Status](https://api.travis-ci.org/sananand007/genTspsolver.png?branch=master)](https://travis-ci.org/sananand007/genTspsolver)
