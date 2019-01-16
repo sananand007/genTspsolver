@@ -11,6 +11,8 @@ Python implementation of different local heuristics for the TSP.
 ## Installation
 
  * This is a standalone library, better included directly in large scale datasets. Works with Python 3 (3.7xx)
+ * The input to this needs to be a .csv files with the coordinates of the cities
+ * I am working on to make it more generic as a package
 
 ### Optional
 
