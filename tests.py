@@ -8,11 +8,9 @@ import numpy as np
 from itertools import combinations_with_replacement, combinations, permutations
 from haversine import haversine
 import time
-from concorde.tsp import TSPSolver
 from find_dist import Calculate_dist
-from tsp-local_2opt import Two_opt
+sys.path.append(os.path.join(os.path.dirname(__file__), "tsp-local_2opt"))
 
 if __name__=="__main__":
 	csv_input = os.getcwd()
-	print(f'path - {csv_input}')
 	Obj = Two_opt(csv_input)
