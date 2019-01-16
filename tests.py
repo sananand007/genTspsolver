@@ -13,5 +13,5 @@ from find_dist import Calculate_dist
 
 if __name__=="__main__":
 	csv_input = os.getcwd()
-	for f in os.list_dir(csv_input):
+	for f in os.listdir(csv_input):
 		print(f)
