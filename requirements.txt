@@ -1,6 +1,6 @@
 Cython==0.29.2
 haversine==2.0.0
-Jinja2==2.10
+Jinja2==2.11.3
 matplotlib==2.2.2
 numba==0.42.0
 numpy==1.15.4
