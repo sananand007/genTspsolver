@@ -21,4 +21,4 @@ terminado==0.8.1
 testpath==0.4.2
 tornado==5.1.1
 tqdm==4.28.1
-urllib3==1.22
+urllib3==1.26.5
